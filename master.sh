@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#updated
 sudo apt-get install sshpass
 ssh-keygen -b 2048 -t rsa -f /home/vagrant/.ssh/id_rsa -q -N ""
 sshpass -p vagrant ssh-copy-id  -o StrictHostKeyChecking=no vagrant@192.168.33.11
