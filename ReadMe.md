@@ -6,3 +6,4 @@ It uses Vagrant to provision three Ubuntu VMs. Then uses Ansible to deploy Docke
 
 This home lab was originally created for a TechTarget article, when the article is published I will ad a link from here.
 
+**nb**
